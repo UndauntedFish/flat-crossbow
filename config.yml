@@ -1,0 +1,7 @@
+# When namelock is true, a custom crossbow item name is required for it to be affected by the plugin.
+# Default name is Heavy Crossbow
+namelock: false
+crossbowname: 'Heavy Crossbow'
+
+# Distance entity needs to be from the crossbow's arrow's impact in order to get damaged
+hitradius: 0.5

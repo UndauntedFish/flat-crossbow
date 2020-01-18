@@ -1,0 +1,5 @@
+main: com.ben.crossbowtda.Main
+name: CrossbowTDA
+description: Implements the Dark Age crossbowman's crossbow.
+version: 0.1
+api-version: 1.13
